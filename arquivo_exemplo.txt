@@ -1,0 +1,4 @@
+Nome;Idade;Cidade
+Carlos;25;Rio de Janeiro
+Ana;30;São Paulo
+Lucas;22;Belo Horizonte

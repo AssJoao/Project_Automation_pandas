@@ -1,0 +1,8 @@
+Data;Produto;Descricao;Tipo;Vale;Paciente; ;Entrada;Retirado;Utilizado; ;Saldo do produto;
+03/01/2022;'ACB164         ;DUPLO J VORTEK 6FR X 26CM C/  ;Recomposicao;040956;*; ;000001;000000;000000; ;      1;
+05/01/2022;'ACB164         ;DUPLO J VORTEK 6FR X 26CM C/  ;Consumo     ;041247;*; ;000000;000000;000001; ;      0;
+06/01/2022;'ACB164         ;DUPLO J VORTEK 6FR X 26CM C/  ;Recomposicao;041233;*; ;000001;000000;000000; ;      1;
+06/01/2022;'ACB164         ;DUPLO J VORTEK 6FR X 26CM C/  ;Recomposicao;041234;*; ;000001;000000;000000; ;      2;
+07/01/2022;'ACB164         ;DUPLO J VORTEK 6FR X 26CM C/  ;Recomposicao;041248;*; ;000001;000000;000000; ;      3;
+07/01/2022;'ACB164         ;DUPLO J VORTEK 6FR X 26CM C/  ;Consumo     ;041470;*; ;000000;000000;000001; ;      2;
+10/01/2022;'ACB164         ;DUPLO J VORTEK 6FR X 26CM C/  ;Recomposicao;041471;*; ;000001;000000;000000; ;      3;
